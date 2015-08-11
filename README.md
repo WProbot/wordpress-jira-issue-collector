@@ -1,0 +1,1 @@
+# wordpress-jira-issue-collector
